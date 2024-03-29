@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+    margin: 4px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-inline: 15px; 
+}
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+div{
+    padding: 20px;
+    background-color: hsl(201, 53%, 58%);
+}
+
+
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-inline: 70px;
+}
+th{
+    background-color: rgba(10, 236, 214, 0.692);
+}
+h2,h4,h3{
+    padding: 10px;
+    background-color: rgba(238, 73, 155, 0.621);
+    padding-left: 40px;
+    text-shadow: 1px 1px 2px;  
+}
+fieldset{
+    width: 600px;
+    border-radius: 10px;
+    border: 3px solid;
+    
+}
+hr{
+    margin-top: 1px;
+}
+span{
+    display: flex;
+    padding:20px ;
+}
+#section-break{
+    display: flex;
+}
+img:hover{
+    cursor: pointer;
+}
+
